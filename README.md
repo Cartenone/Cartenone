@@ -16,6 +16,6 @@ I like learning step by step, understanding how things work, and turning small i
 ## Currently building
 - **getMocked** — a CLI tool for mocking HTTP APIs locally
 
-###Why?
+### Why?
 Because sometimes you just need a fast, local, and controllable way to simulate APIs while developing.  
 No external mock platforms, no unnecessary setup — just local files, a local server, and a workflow you control.
