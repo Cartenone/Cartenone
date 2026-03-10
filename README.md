@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Cartenone/Cartenone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cartenone, a junior developer currently learning by building real projects.
 
-Here are some ideas to get you started:
+Right now I'm working on **getMocked**, a Python CLI tool to define and serve mock APIs from YAML and JSON files.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- Python
+- backend development
+- CLI tools
+- testing
+- software design through practice
+
+I like learning step by step, understanding how things work, and turning small ideas into real projects.
+
+## Currently building
+- **getMocked** — a CLI tool for mocking HTTP APIs locally
